@@ -2,7 +2,7 @@ id: custom-config-check
 
 info:
   name: DataBase Configuration Check
-  author: SirBugs
+  author: Kaito kid
   severity: Critical
   description: Check for common database configuration keys.
 
