@@ -2,7 +2,7 @@ id: custom-config-check
 
 info:
   name: Config File Check
-  author: SirBugs
+  author: Kaito kid
   severity: high
 
 requests:
